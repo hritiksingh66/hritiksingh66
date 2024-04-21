@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 I'm Hritik Singh
 
 <!--
 **hritiksingh66/hritiksingh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
