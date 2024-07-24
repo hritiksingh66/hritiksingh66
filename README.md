@@ -23,18 +23,6 @@
 </p>
 
 ---
-<br><br>
-
-<br><br>
-
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritiksingh66&count_private=true&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritiksingh66&" alt="hritiksingh.66" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritiksingh66&show_icons=true&locale=en&layout=compact" alt="hritiksingh.66" /></p>
-
-</div>
-
 
 ## 🛠️ Tech Stack
 
