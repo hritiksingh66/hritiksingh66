@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/hritik_suryavanshi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hritik-singh-45648b1a4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hritik-kumar-y2026/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
