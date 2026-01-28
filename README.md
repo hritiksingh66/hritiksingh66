@@ -10,7 +10,7 @@
 
 - 🔭 I’m learning DSA.
 - 🌱 I’m diving deep into **Software Engineering**
-- 🤓 Interested in AI/ML **Software Development**
+- 🤓 Interested in **Software Development**
 - 💌 How to reach me: <a href="mailto:hritiksinghrajput05162@gmail.com">hritiksinghrajput05162@gmail.com</a>
 
 ---
